@@ -1,4 +1,4 @@
-# Data Structures and Algorithm Anaylsis
+# Data Structures and Algorithm Analysis
 Fundamental data structures used in programming and the basic techniques used to design and analyze algorithms. 
 Topics include: complexity analysis of elementary algorithms, linear data structures, trees, heaps, graphs, 
 search algorithms (balanced binary trees, B-trees, hashing), sorting algorithms, 
